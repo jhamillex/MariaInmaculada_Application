@@ -1,0 +1,14 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Inmaculada\Inmaculada\bin\Debug\Inmaculada.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\bin\Debug\Inmaculada.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\bin\Debug\Inmaculada.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.Properties.Resources.resources
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.csproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\obj\Debug\Inmaculada.frmUsuario_IniciarSesion.resources
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\bin\Debug\CapaNegocio.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\Inmaculada\bin\Debug\CapaNegocio.pdb
+I:\sistema\Inmaculada\Inmaculada\bin\Debug\Inmaculada.exe.config
+I:\sistema\Inmaculada\Inmaculada\obj\Debug\Inmaculada.exe
+I:\sistema\Inmaculada\Inmaculada\obj\Debug\Inmaculada.pdb

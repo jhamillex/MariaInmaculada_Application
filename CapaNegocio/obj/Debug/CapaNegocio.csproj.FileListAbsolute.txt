@@ -1,0 +1,5 @@
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\Inmaculada\CapaNegocio\obj\Debug\CapaNegocio.pdb
